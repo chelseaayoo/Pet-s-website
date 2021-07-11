@@ -1,0 +1,11 @@
+.special{
+    color: blueviolet;
+}
+.important{
+    color: blue;
+    font-style: italic;
+}
+.line1{
+    color: brown;
+    font-style: italic;
+}
